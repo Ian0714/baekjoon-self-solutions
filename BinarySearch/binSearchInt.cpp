@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <algorithm>
 using namespace std;
 
@@ -35,4 +35,4 @@ int main(){
 		cout << check << '\n';
 	}
 	return 0;
-}*/
+}
