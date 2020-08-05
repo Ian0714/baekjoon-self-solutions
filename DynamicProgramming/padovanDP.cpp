@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 long long d[101] = {0, 1, 1, 1, 2, 2};
@@ -20,4 +20,4 @@ int main(){
 		}
 	}
 	return 0;
-}*/
+}

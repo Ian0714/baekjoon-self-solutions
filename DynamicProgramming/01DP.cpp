@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 long long d[1000001] = {0, 1, 2};
@@ -12,4 +12,4 @@ int main(){
 	}
 	cout << d[a];
 	return 0;
-}*/
+}
