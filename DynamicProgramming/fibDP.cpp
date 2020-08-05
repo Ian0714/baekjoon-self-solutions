@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 long long v[101] = {0, 1, };
@@ -15,4 +15,4 @@ int main(){
 	cin >> n;
 	cout << fib(n);
 	return 0;
-}*/
+}
