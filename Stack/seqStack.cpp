@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <stack>
 #include <string>
 
@@ -36,4 +36,4 @@ int main(){
 		cout << res;
 	}
 	return 0;
-}*/
+}
